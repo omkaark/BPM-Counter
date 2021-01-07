@@ -1,0 +1,25 @@
+.slider-container {
+  width: 100%;
+}
+
+.slider-range {
+  appearance: none;
+  width: 60%; /* Full-width */
+  margin-left: 20%;
+  margin-top: 20px;
+  height: 10px; /* Specified height */
+  background: #d3d3d3; /* Grey background */
+  outline: none; /* Remove outline */
+  opacity: 1;
+}
+
+#bubble {
+  width: 4%;
+}
+
+#bpm-button {
+  position: absolute;
+  margin-top: 20px;
+  width: 100px;
+  margin-left: calc(50% - 50px);
+}
